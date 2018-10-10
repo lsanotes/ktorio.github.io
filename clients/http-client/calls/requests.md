@@ -12,7 +12,7 @@ specifying an engine, for example
 [`Apache`](/clients/http-client/engines.html#apache),
 [`OkHttp`](/clients/http-client/engines.html#okhttp),
 [`Android`](/clients/http-client/engines.html#android),
-[`Ios`](/clients/http-client/engines.html#ios),
+[`iOS`](/clients/http-client/engines.html#ios),
 [`Jetty`](/clients/http-client/engines.html#jetty)
 or [`CIO`](/clients/http-client/engines.html#cio),
 and start making requests using one of the many convenience methods available.
